@@ -1,4 +1,4 @@
-# Saif Shell - Smart Kinetic Wall System
+# Saif Shell - Smart Dynamicc Wall System
 
 This is my OOP project that shows how a smart wall can move and adapt based on the sun and sound around it. The wall is made of hexagonal panels that track the sun's position. When the sun gets too intense, the panels rotate to block light from entering the building, keeping the inside cool. At the same time, the solar panels on each hexagon generate energy and store it in batteries. For sound, the panels change their shape and arrangement to trap and absorb noise so it doesn't enter the building. The C++ backend does all the physics calculations to decide how each panel should move and rotate.
 
