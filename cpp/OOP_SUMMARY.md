@@ -1,6 +1,6 @@
 # OOP Summary for Saif Shell
 
-This file explains only the object-oriented programming (OOP) used in the C++ part of the project. I wrote it in a simple way so it is easy to understand and say in class.
+This file explains only the object-oriented programming (OOP) used in the C++ part of the project. I wrote it in a simple way so that you people can understand the work flow of my project .
 
 ## How many classes are used?
 
