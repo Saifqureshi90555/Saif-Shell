@@ -6,7 +6,7 @@ echo "==========================================="
 
 # Store the saif-shell directory path
 PROJECT_DIR="$(pwd)"
-CPP_DIR="$(dirname "$PROJECT_DIR")/cpp"
+CPP_DIR="$PROJECT_DIR/cpp"
 
 echo "📍 Project directory: $PROJECT_DIR"
 echo "📍 C++ source directory: $CPP_DIR"
